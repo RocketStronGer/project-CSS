@@ -1,0 +1,32 @@
+table {
+    color:rgb(19, 134, 15);
+    border-radius: 10px;
+    border: 2px solid red
+  
+}
+
+li[heigh="90"] {
+    color: rgb(185, 127, 40);
+}
+
+.privet {
+    color: rgb(45, 190, 101);
+}
+
+#ideveloper {
+    font-weight: bold;
+}
+
+.list >li {
+    color: rgb(174, 0, 255);
+}
+.front-size-md {
+    font-size: 18px;
+}
+
+.front-size-md.color-red {
+    color: red;
+}
+.front-size-md.color-gray {
+    color: gray;
+}
